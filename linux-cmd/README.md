@@ -61,7 +61,7 @@ d <owner permission> <group permission> <publich permission>
 ##How to update permission
 Command, [examples](http://www.computerhope.com/unix/uchmod.htm)
 ```
-chmod
+chmod 754 file.txt
 ```
 
 
